@@ -21,6 +21,16 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.left-links {
+  margin-left: 10px;
+}
+
+.right-links {
+  margin-right: 10px;
 }
 
 a {
