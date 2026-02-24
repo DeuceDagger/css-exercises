@@ -4,6 +4,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 10px;
 }
 
 .logo {
@@ -24,14 +25,14 @@ ul {
   margin: 0;
   padding: 0;
 }
-
+/* 
 .left-links {
   margin-left: 10px;
 }
 
 .right-links {
   margin-right: 10px;
-}
+} */
 
 a {
   font-size: 22px;
