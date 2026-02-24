@@ -3,6 +3,7 @@
   background: papayawhip;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .logo {
@@ -15,13 +16,11 @@
   flex: 0 1 auto;
 }
 
-.left-links {
-  display: flex;
-}
-
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 a {
