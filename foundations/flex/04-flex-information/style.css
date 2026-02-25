@@ -17,6 +17,7 @@ img {
 
 .content {
   display: flex;
+  justify-content: center;
   margin: 32px;
   gap: 52px;
 }
