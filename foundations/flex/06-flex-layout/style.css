@@ -36,7 +36,7 @@ input {
   display: flex;
   justify-content: space-between;
   padding: 15px;
-  width: 100vh;
+  width: 100vw;
 }
 
 .left-links {
@@ -62,7 +62,6 @@ a {
 
 .content {
   flex-grow: 1;
-  align-items: center;
 }
 
 .footer {
@@ -70,5 +69,5 @@ a {
   justify-content: space-between;
   padding: 15px;
   background-color: #eeeeee;
-  width: 100vh;
+  width: 100vw;
 }
